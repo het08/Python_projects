@@ -1,0 +1,21 @@
+Install all the librabry for the voice assisatant
+
+1.   pip install urllib
+2.   pip install pyttsx3
+3.   pip install datetime
+4.   pip install speech_recognition
+5.   pip install wikipedia
+6.   pip install webbrowser
+7.   pip install os
+8.   pip install psutil
+9.   pip install pyjokes
+10.   pip install socket
+11.   pip install speedtest
+12.   pip install pyautogui
+13.   pip install cv2
+14.   pip install numpy as np
+15.   pip install tktinker
+
+Some of the command won't work for your system, for that you need to modify it by yourself or look for the solution on the stack overflow.
+if you have any doubt you can message me on instagram or on my linkedin profile.
+enjoy your own voice assisatant.
